@@ -1,0 +1,613 @@
+/* @media (max-width: 1440px) {} */
+/* @media (max-width: 1366px) {} */
+/* @media (max-width: 1280px) {} */
+ 
+
+ 
+@media (max-width: 1200px) {
+  
+
+    .product__card-img{
+        width: 100%;
+    }
+
+    .home__card{
+        display: none;
+    }
+
+    .search{
+      position: relative;
+    }
+
+    .header__btn{
+        position: absolute;
+        bottom: -50px;
+        left: -100px;
+    }
+
+   
+}
+@media (max-width: 1080px) {}
+@media (max-width: 1024px) {}
+@media (max-width: 992px) {
+
+    /* home start */
+
+    .home__title{
+        font-size: 50px;
+    }
+
+    /* home end */
+
+    /* product start */
+  
+    .product__title {
+        font-size: 45px;
+    }
+
+    /* product end */
+
+    /* services start */
+ 
+    .services__title {
+        font-size: 45px;
+    }
+
+    /* services end */
+
+    /* Blog start */
+ 
+    .blog__contact-title{
+        font-size: 45px;
+    }
+
+    /* Blog end */
+
+    /* customer start */
+
+    .customer__title{
+        font-size: 45px;
+    }
+
+    .customer__contact-title{
+        font-size: 40px;
+    }
+
+    .customer__massege{
+        width: 350px;
+    }
+
+    .sms{
+        left: 155px;
+    }
+
+    .customer__button {
+        padding: 17px 18px;
+    }
+    /* customer end */
+
+
+
+    .search{
+        position: relative;
+      }
+
+    .header__btn{
+        position: absolute;
+        bottom: -50px;
+        left: -40px;
+    }
+}
+@media (max-width: 800px) {}
+@media (max-width: 768px) {
+
+    /* home start */
+
+    .home__title{
+        font-size: 45px;
+    }
+
+    .home__text{
+        font-size: 16px;
+    }
+
+    .home__btn{
+        display: inline-block;
+    }
+     
+    /* home end */
+
+    /* product start */
+
+    .product__title{
+        font-size: 35px;
+    }
+
+    .product__text{
+        font-size: 15px;
+    }
+
+    .product__card-img{
+        width: 70%;
+    }
+    /* product end */
+
+    /* services start */
+
+    .services__title{
+        font-size: 35px;
+    }
+
+    /* services end */
+
+    /* blog start */
+
+    .blog__contact-title{
+        font-size: 40px;
+    }
+
+    .blog__contact-text{
+        font-size: 16px;
+    }
+
+    /* blog end */
+
+    /* customer start */
+ 
+    .customer__title{
+        font-size: 33px;
+    }
+
+    .customer__text{
+        font-size: 15px;
+    }
+
+    .customer__contact-title{
+        font-size: 30px;
+    }
+
+    .customer__contact{
+        padding: 50px 0;
+    }
+
+    .customer__massege {
+        width: 300px;
+        padding: 15px 0;
+        padding-left: 8px;
+
+    }
+
+    .sms{
+        left: 125px;
+        top: 2px;
+    }
+
+    .customer__button {
+        padding: 15px 18px;
+    }
+
+    /* customer end */
+
+    /* footer start */
+
+    .footer__about ul{
+        
+      padding-left: 0 !important; 
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       margin-right: 30px;
+
+    }
+
+    .footer__about ul:nth-child(3){
+        margin-right: 0;
+    }
+
+    .footer__servic{
+        display: block;
+    }
+
+    .footer__private{
+        margin-right: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* footer end */
+}
+@media (max-width: 684px) {
+    .product__card-img{
+        width: 65%;
+    }
+}
+@media (max-width: 576px) {
+    /* home start */
+  
+    .home__title{
+        font-size: 40px;
+        margin-left: 30px;
+    }
+
+    .home__contact{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .home__text{
+        font-size: 14px;
+        margin-left: 20px;
+    }
+
+    /* home end */
+
+    /* product start */
+ 
+    .product__title{
+        font-size: 30px;
+    }
+    
+    .product__text{
+        font-size: 14px;
+    }
+
+    .product__card-img{
+        width: 60%;
+    }
+
+
+
+    /* product end */
+
+    /* services start */
+
+    .services__title{
+        font-size: 30px;
+    }   
+     
+    /* services end */
+
+    /* Blog start */
+
+    .blog__contact-title{
+        font-size: 35px;
+    }
+
+    .blog__contact-text{
+        font-size: 14px;
+    }
+
+    /* Blog end */
+
+    /* customer start */
+ 
+    .customer__title{
+        font-size: 30px;
+    }
+
+    .customer__text {
+        display: none;
+    }
+
+
+    .customer__contact-title{
+        margin-bottom: 40px;
+    }
+
+    .customer__massege{
+      display: block;
+    }
+
+    
+
+    /* customer end */
+
+    .footer{
+        margin: 0;
+        width: 100%;
+    }
+
+    .footer__khamrayev{
+        margin-left: 0; 
+        text-align: center; 
+      }
+
+
+
+}
+
+
+@media (max-width: 414px) {
+    /* home start */
+
+    .home__title{
+        font-size: 35px;
+    }
+
+    .home__text{
+        font-size: 13px;
+    }
+
+    /* home end */
+
+    /* product start*/
+
+    .product__title{
+        font-size: 25px;
+    }
+    /* product end */
+
+    /* services start */
+
+    .services__title{
+        font-size: 25px;
+    }
+
+    .services__card{
+        width: 370px;
+    }
+
+    /* services end */
+
+    /* blog start */
+
+    .blog__contact-title{
+        font-size: 30px;
+    } 
+
+    .blog__contact-text{
+        font-size: 12px;
+    }
+
+    .blog__card{
+        width: 370px;
+    }
+
+    /* blog end */
+
+    /* customer start */
+
+    .customer__title{
+        font-size: 24px;
+        margin-bottom: -15px;
+    }
+
+    .customer__card {
+        width: 370px;
+    }
+
+    .customer__contact-title{
+        font-size: 24px;
+    }
+
+    .sms{
+        display: none;
+    }
+    /* customer end */
+
+    .footer__name {
+        font-size: 14px;
+    }
+
+    .footer__khamrayev{
+        margin-left: 0;
+    }
+
+    .footer__about {
+        display:flex;
+        flex-direction: column;
+    }
+
+    .footer__title{
+        text-align: center;
+        padding-right: 10px;
+    }
+
+    .footer__text{
+        text-align: center;
+        padding-right: 20px;
+    }
+
+    .footer__about ul{
+        margin-right: 0 !important;
+    }
+
+    .footer__network{
+        text-align: center;
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 376px) {
+
+    /* Home start */
+
+    .home__title{
+        font-size: 30px;
+        padding-left: 20px;
+        text-align: center;
+    }
+
+    .home__text{
+        font-size: 12px;
+        padding-left: 20px;
+    }
+
+    .home__btn{
+        width: 210px;
+        font-size: 18px;
+    }
+
+    .home__image{
+        width: 75%;
+    }
+
+    /* Home end */
+
+    /* product start */
+
+    .product__title{
+        font-size: 22px;
+    }
+
+    .product__card-img{
+        width: 75%;
+    }
+    /* product end */
+
+    /* services start */
+
+    .services__title {
+        font-size: 22px;
+    }
+
+    .services__card{
+        width: 320px;
+    }
+    .services__text {
+        font-size: 14px;
+    }
+
+    /* services end */
+
+    /* Blog start */
+
+    .blog__card{
+        width: 320px;
+    }
+    /* Blog end */
+
+    /* customer start */
+
+    .customer__title {
+        font-size: 19px;
+    }
+
+    .customer__card{
+        width: 320px;
+    }
+
+    .customer__contact-title{
+        font-size: 18px;
+        margin-bottom: 2px;
+
+    }
+
+    .customer__contact{
+        padding: 20px 0 30px;
+    }
+
+    .customer__massege{
+        width: 200px;
+        display: block;
+    }
+    /* customer end */
+
+    .footer__about{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer__about ul{
+       display: flex;
+    }
+
+    .footer__title{
+        text-align: center;
+    }
+
+    .footer__text{
+        text-align: center;
+    }
+
+    .footer__network{
+        text-align: center;
+    }
+    .footer__khamrayev{
+       text-align: center;
+    }
+
+    .customer__button{
+        padding: 12px 18px;
+    }
+
+   
+}
+@media (max-width: 320px) {
+    /* home start */
+
+    .home__title{
+        font-size: 25px;
+        line-height: 50px;
+    }
+    /* home end */
+
+    .product__title {
+        font-size: 20px;
+    }
+
+    .services__title{
+        font-size: 20px;
+    }
+
+    .services__card{
+        width: 300px;
+    }
+
+    .services__text {
+        font-size: 13px;
+    }
+
+    .blog__title{
+        font-size: 22px;
+    }
+
+    
+  .blog__text{
+      font-size: 18px;
+  }
+
+    .blog__contact-title{
+        font-size: 28px;
+    }
+
+    .blog__card{
+        width: 300px;
+    }
+
+    .customer__card{
+        width: 300px;
+    }
+
+    .customer__contact-title{
+        font-size: 18px;
+    }
+
+    .customer__info-text{
+        font-size: 14px;
+    }
+
+    .customer__massege{
+        width: 200px;
+        display: block;
+    }
+
+    .customer__button{
+        padding: 12px 18px;
+        font-size: 14px;
+    }
+    .footer__name{
+        font-size: 12px;
+    }
+
+    .footer__text {
+        font-size: 16px;
+    }
+
+    .footer__title{
+        font-size: 23px;
+    }
+}
